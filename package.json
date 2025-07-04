@@ -6,10 +6,18 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "sanket uphade",
   "license": "ISC",
-  "description": "",
   "devDependencies": {
     "tailwindcss": "^3.4.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sanket77u/Smart-Day.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sanket77u/Smart-Day/issues"
+  },
+  "homepage": "https://github.com/Sanket77u/Smart-Day#readme",
+  "description": ""
 }
